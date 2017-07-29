@@ -19,4 +19,4 @@ The citations should be ideally first started at Authorea and then ported over. 
 - Work on the citations using the latex modes of citing in Github
 - Sync
 
-
+Rothman's idea stem from X ~\cite{}
