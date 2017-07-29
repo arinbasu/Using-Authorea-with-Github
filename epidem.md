@@ -1,6 +1,6 @@
 ## Introduction to Epidemiology
 
-Last defined epidemiology as the study of the distribution and determinants of diseases in populations and use of that knowledge to prevent illnesses and promote well being. This suggests that Epidemiology is a population based study and it not only associates with diseases but any health related state. In Epidemiology, we study:
+Last defined epidemiology as the study of the distribution and determinants of diseases in populations and use of that knowledge to prevent illnesses and promote well being . This suggests that Epidemiology is a population based study and it not only associates with diseases but any health related state. In Epidemiology, we study:
 
 - Cause of diseases
 - Measure health related states
