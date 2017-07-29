@@ -12,3 +12,11 @@
 | Y    | this is Y |
 
 If this table shows us as it should then it is great. Next stop should be citations.
+
+The citations should be ideally first started at Authorea and then ported over. Steps:
+
+- Start the citations in Authorea
+- Work on the citations using the latex modes of citing in Github
+- Sync
+
+
