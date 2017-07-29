@@ -1,1 +1,1 @@
-## The idea is to use authore
+## The idea is to use authorea 
