@@ -24,3 +24,5 @@ Rothman's idea stem from X \cite{rothman2005causation}
 Add an image thus,
 
 ![Graph](https://s-media-cache-ak0.pinimg.com/originals/55/d3/3f/55d33f8a12e7fb0737b8d926845ec89d.jpg)
+
+I can build the main content of the paper in github or in my desktop and add citations to the bibliography file and cite using the latex citation and don't have to worry about anything else, as markdown gets sweetly incorporated into the Authorea documentation. I can bring in any number of authors in the mix and write the paper. 
