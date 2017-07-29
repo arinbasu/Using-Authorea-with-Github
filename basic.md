@@ -5,3 +5,10 @@
 3. Edit the article in github or in the desktop and sync with github
 4. Commit changes and update
 5. This should show up in Authorea
+
+| Test | Findings |
+|------|----------|
+| X    | this is X |
+| Y    | this is Y |
+
+If this table shows us as it should then it is great. Next stop should be citations.
