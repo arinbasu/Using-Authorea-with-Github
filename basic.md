@@ -19,4 +19,8 @@ The citations should be ideally first started at Authorea and then ported over. 
 - Work on the citations using the latex modes of citing in Github
 - Sync
 
-Rothman's idea stem from X ~\cite{rothman2005causation}
+Rothman's idea stem from X \cite{rothman2005causation}
+
+Add an image thus,
+
+![Graph](https://s-media-cache-ak0.pinimg.com/originals/55/d3/3f/55d33f8a12e7fb0737b8d926845ec89d.jpg)
