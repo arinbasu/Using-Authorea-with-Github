@@ -1,1 +1,1 @@
-In the causal pie models, each slice of the pie is referred to as a component cause; a co
+In the causal pie models, each slice of the pie is referred to as a component cause; a
