@@ -1,1 +1,1 @@
-We use this concept ever
+We use this concept everyday 
