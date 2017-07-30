@@ -1,1 +1,1 @@
-As can be seen in the above figure, Type I error occurs when we falsely reject the null hypoth
+As can be seen in the above figure, Type I error occurs when we falsely reject the null hypothesis, and 
