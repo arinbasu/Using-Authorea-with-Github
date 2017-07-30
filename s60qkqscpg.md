@@ -1,2 +1,2 @@
 | Population Size | 1000 |
-| Follow up time  | 5 
+| Follow up time  | 5 yea
