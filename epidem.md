@@ -13,4 +13,4 @@ Cause and causal inference are based on considering that causes of diseases or h
 
 As can be seen in the pie shaped figure, each causal model consists of several possible causes which interact with each other. At the time of causation of the outcome, these factors are all present and are sufficient to cause the outcome. Hence this circle or pie is referred to as a "sufficient" causal diagram. This was first proposed by Ken Rothman \cite{rothman2005causation}. 
 
-Once you start working with this strategy you realise hat that it it is better tow to work with Google chrome rather than with other browsers; I also found out hat that it is better to in case of dificulties, cleaning the cache or history is a way to overcome these issues. So reluctantly, I will have to use Google Crhom Chrome on my 
+Once you start working with this strategy you realise hat that it it is better tow to work with Google chrome rather than with other browsers; I also found out hat that it is better to in case of dificulties, cleaning the cache or history is a way to overcome these issues. So reluctantly, I will have to use Google Crhom Chrome on my Mac 
