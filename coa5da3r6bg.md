@@ -1,1 +1,1 @@
-In the causal pie models, each slice of the pie is referred to as a component cause; if several sufficient causal models are developed for the same phenomenon, then the most common component cause or the component cu
+In the causal pie models, each slice of the pie is referred to as a component cause; if several sufficient causal models are developed for the same phenomenon, then the most common component cause or the component ca
