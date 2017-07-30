@@ -1,1 +1,1 @@
-We use this concept everyday in our scientific literature by using the test of hypotheses. As shown in 
+We use this concept everyday in our scientific literature by using the test of hypotheses. As shown in Table 
