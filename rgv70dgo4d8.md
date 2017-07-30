@@ -1,1 +1,1 @@
-The notion of causal thinking is ingrained in human mind, as Rothman argues that these ideas are formed at birth. A child cries in order to attract the attention of his mother so that it can be fed. This sets 
+The notion of causal thinking is ingrained in human mind, as Rothman argues that these ideas are formed at birth. A child cries in order to attract the attention of his mother so that it can be fed. This sets u a n
