@@ -1,1 +1,1 @@
-As can be seen in the above figure, Type I error occurs when we falsely reject the null hypothesis, and Type II error occurs when falsely fail to reject the null hypothesis. This is referred to as alpha error and this is how we control for 
+As can be seen in the above figure, Type I error occurs when we falsely reject the null hypothesis, and Type II error occurs when falsely fail to reject the null hypothesis. This is referred to as alpha error and this is how we control for the eff
