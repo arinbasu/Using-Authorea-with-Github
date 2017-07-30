@@ -12,5 +12,3 @@ Cause and causal inference are based on considering that causes of diseases or h
 ![Rothman's Causal Pie](https://www.cdc.gov/ophss/csels/dsepd/ss1978/lesson1/images/figure1.17.jpg)
 
 As can be seen in the pie shaped figure, each causal model consists of several possible causes which interact with each other. At the time of causation of the outcome, these factors are all present and are sufficient to cause the outcome. Hence this circle or pie is referred to as a "sufficient" causal diagram. This was first proposed by Ken Rothman \cite{rothman2005causation}. 
-
-
