@@ -1,1 +1,1 @@
-In the causal pie model,
+In the causal pie models, each 
