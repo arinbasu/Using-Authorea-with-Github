@@ -1,1 +1,1 @@
-As can be seen in the above figure, 
+As can be seen in the above figure, Type I error occurs when we f
