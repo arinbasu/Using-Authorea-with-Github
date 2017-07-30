@@ -1,1 +1,1 @@
-We use this concept everyday in our sic
+We use this concept everyday in our scientific lite
