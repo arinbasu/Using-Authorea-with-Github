@@ -1,1 +1,1 @@
-| Town | People with diarrhoea | Population
+| Town | People with diarrhoea | Population |
