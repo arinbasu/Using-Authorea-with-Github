@@ -2,5 +2,5 @@ We use this concept everyday in our scientific literature by using the test of h
 
 | Observation | Null True       |   Null False     |
 |-------------|-----------      |------------------|
-| Reject Null | Type I Error    | Correct       |
+| Reject Null | Type I Error    | Correct         |
 | Fail to reject Null | Correct | Type II Error |
