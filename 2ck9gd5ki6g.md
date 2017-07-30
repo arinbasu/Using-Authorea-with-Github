@@ -1,1 +1,1 @@
-As can be see i
+As can be seen in the above figure, 
