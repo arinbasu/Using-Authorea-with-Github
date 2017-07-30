@@ -1,1 +1,1 @@
-We use this concept everyday in our scientific lite
+We use this concept everyday in our scientific literature by 
