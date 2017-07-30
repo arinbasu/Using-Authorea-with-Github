@@ -1,1 +1,1 @@
-The notion of causal thinking is ingrained in human mind, as 
+The notion of causal thinking is ingrained in human mind, as Rothman argug
