@@ -1,2 +1,2 @@
 | Population Size | 1000 |
-| Follow up time v
+| Follow up time 
