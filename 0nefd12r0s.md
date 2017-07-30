@@ -1,1 +1,1 @@
-| Town | People with diarrhoea | Population | Prevalence/1000 |
+| Town | Pediarrhoea | Population | Prevalence/1000 |
