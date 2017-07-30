@@ -1,1 +1,1 @@
-![Confounding Variable]()
+![Confounding Variable](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Simple_Confounding_Case.svg/1200px-Simple_Confounding_Case.svg.png)
