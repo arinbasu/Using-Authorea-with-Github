@@ -21,4 +21,5 @@ figures/cases_crude_all_I14_0
 5ppnjd14dg8.html
 figures/malefemale2
 4fbaid3idko.html
+figures/age_standardised_rate
 5r96h28ul9g.html
