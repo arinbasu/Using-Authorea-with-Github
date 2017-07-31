@@ -1,1 +1,1 @@
-![Cohort Study]
+![Cohort Study Design]
