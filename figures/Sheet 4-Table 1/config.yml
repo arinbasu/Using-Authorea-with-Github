@@ -17,3 +17,5 @@ grid:
     - 1
     - 1
     url: "/users/2191/articles/190631/master/file/figures/Sheet%204-Table%201/Sheet%204-Table%201.csv"
+    folder_url: "/users/2191/articles/190631/master/folder/figures/Sheet 4-Table 1"
+    treatFirstLineAsHeader: true
