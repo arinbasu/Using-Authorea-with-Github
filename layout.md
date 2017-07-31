@@ -15,3 +15,5 @@ tdmsac714q8.html
 ls4pe7bpag.html
 s60qkqscpg.md
 o3vmei64op.html
+figures/malefemale
+c1oiv6ejt1o.html
