@@ -1,1 +1,1 @@
-![Case Control Studi]
+![Case Control Study d]
