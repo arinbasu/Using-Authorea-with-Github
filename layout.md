@@ -25,3 +25,5 @@ figures/age_standardised_rate
 5r96h28ul9g.html
 figures/Sheet 2-Table 1
 1pdlrsks36g.html
+er93f926888.md
+vuji1pvc82g.html
