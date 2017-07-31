@@ -19,5 +19,6 @@ figures/malefemale
 c1oiv6ejt1o.html
 figures/cases_crude_all_I14_0
 5ppnjd14dg8.html
+figures/malefemale2
 4fbaid3idko.html
 5r96h28ul9g.html
