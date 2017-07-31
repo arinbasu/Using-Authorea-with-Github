@@ -1,1 +1,1 @@
-![Case Control Study design]()
+![Case Control Study design](https://www.ebmconsult.com/content/images/Stats/Case%20Control%20Study%20Design%20Diagram.png)
