@@ -23,3 +23,5 @@ figures/malefemale2
 4fbaid3idko.html
 figures/age_standardised_rate
 5r96h28ul9g.html
+figures/Sheet 2-Table 1
+1pdlrsks36g.html
