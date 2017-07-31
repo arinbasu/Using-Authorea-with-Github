@@ -17,3 +17,5 @@ s60qkqscpg.md
 o3vmei64op.html
 figures/malefemale
 c1oiv6ejt1o.html
+figures/cases_crude_all_I14_0
+5ppnjd14dg8.html
